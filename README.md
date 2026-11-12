@@ -2,7 +2,7 @@
 
 A public archive of the Pepperwood Community Newsletter, so neighbors can catch up on past issues.
 
-Live site: https://happy2btc.github.io/pepperwood-newsletter/
+Live site: https://happy2btct.github.io/pepperwood-newsletter/
 
 ## How to add a new issue
 
